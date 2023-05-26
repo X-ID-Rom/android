@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <default revision="thirteen"
+        remote="github"
+    />
+    <remote name="xid" url="https://github.com/X-ID-Rom" />
+
+    <project path="packages/apps/ViMusic"
+        name="android_packages_apps_ViMusic" remote="xid" />
+</manifest>
